@@ -29,16 +29,8 @@ A real-time weather monitoring system leveraging Microsoft Azure IoT services to
 
 ## Architecture Overview
 ```
-┌─────────────────┐     ┌─────────────────┐     ┌─────────────────────┐
-│  Python-based   │────▶│   Azure IoT Hub │────▶│  Azure IoT Edge     │
-│  Weather Sensor │     │  (Cloud Gateway)│     │  (Edge Processing)  │
-└─────────────────┘     └─────────────────┘     └─────────────────────┘
-                                                          │
-                                                          ▼
-┌─────────────────┐     ┌─────────────────┐     ┌─────────────────────┐
-│  Power BI       │◀────│ Azure Stream    │◀────│  Processed          │
-│  Dashboard      │     │ Analytics       │     │  Telemetry          │
-└─────────────────┘     └─────────────────┘     └─────────────────────┘
+<img width="1785" height="982" alt="image" src="https://github.com/user-attachments/assets/e8e07a70-f611-499a-9f08-afff1e26fda4" />
+
 ```
 
 ## Technologies Used
