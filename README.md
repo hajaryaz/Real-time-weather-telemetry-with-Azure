@@ -191,17 +191,17 @@ az iot hub monitor-events --hub-name WeatherIoTHub --device-id weather-edge-devi
 
 ## Example Dashboard View
 The Power BI dashboard displays:
-- **Current Weather Panel**: Real-time temperature, humidity, wind metrics
-- **Time Synchronization**: Accurate clock using NTP protocols
-- **Historical Trends**: 24-hour weather pattern visualization
-- **Alert Indicators**: Visual cues for extreme weather conditions
+<img width="1473" height="769" alt="image" src="https://github.com/user-attachments/assets/db2cb8d0-ae62-486b-9c2d-a0ced4acf864" />
+
 
 ## Contact
 For project inquiries or technical support:
 
 **Project Team:**
-- Maroua Alami Harrak
-- Hajar Elyazri
+
+- @marouaa145
+- @ELyazri Hajar
+
 
 
 ---
