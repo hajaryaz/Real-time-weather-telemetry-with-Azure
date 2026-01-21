@@ -28,10 +28,9 @@ A real-time weather monitoring system leveraging Microsoft Azure IoT services to
 - **Containerized Deployment**: Docker-based module deployment via Azure Container Registry
 
 ## Architecture Overview
-```
-<img width="1785" height="982" alt="image" src="https://github.com/user-attachments/assets/e8e07a70-f611-499a-9f08-afff1e26fda4" />
 
-```
+<img width="1785" height="982" alt="image" src="https://github.com/user-attachments/assets/6aecf020-49ed-47c9-812c-c24ef002d59d" />
+
 
 ## Technologies Used
 ### Cloud Services:
